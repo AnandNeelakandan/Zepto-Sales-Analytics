@@ -40,4 +40,4 @@ The goal is to answer business questions such as **daily run rate (DRR_7, DRR_14
 ## 📌 Author
 **Anand Neelakandan**  
 - 💼 Aspiring Data Analyst  
-- 📊 Skills: SQL, Excel, Power BI  
+- 📊 Skills: SQL, Excel 
